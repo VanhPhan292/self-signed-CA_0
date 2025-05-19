@@ -1,0 +1,17 @@
+{
+    "CN": "My Intermediate CA",
+    "key": {
+      "algo": "rsa",
+      "size": 4096
+    },
+    "names": [
+      {
+        "C": "VietNam",
+        "ST": "North",
+        "L": "Hanoi",
+        "O": "PhanVietAnh",
+        "OU": "Intermediate CA"
+      }
+    ]
+  }
+  

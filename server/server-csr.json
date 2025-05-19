@@ -1,0 +1,22 @@
+{
+    "CN": "selfsign.certificate.com",
+    "hosts": [
+    "selfsign.certificate.com",
+    "www.selfsign.certificate.com",
+    "192.168.52.128"
+  ],
+    "key": {
+      "algo": "rsa",
+      "size": 2048
+    },
+    "names": [
+      {
+        "C": "VietNam",
+        "ST": "North",
+        "L": "Hanoi",
+        "O": "PhanVietAnh",
+        "OU": "Server"
+      }
+    ]
+  }
+  
